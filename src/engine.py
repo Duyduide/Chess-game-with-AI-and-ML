@@ -2,6 +2,7 @@ import chess
 import random
 import time
 from . import evaluation
+from . import config
 
 def random_move(board):
     """
